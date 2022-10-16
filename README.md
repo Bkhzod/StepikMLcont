@@ -29,5 +29,5 @@ Using data from the first two days of activity on the course, you need to predic
 ## Results
 In the final, a csv file is generated with an estimate of the probability of classes for each user
 
-ROC AUC: 0.8894. It is included in the top 10 results among the participants
+ROC AUC: 0.888. It is included in the top 10 results among the participants
 
